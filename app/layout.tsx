@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://ssbalaramapuram.com",
+    url: "https://sshandloom.vercel.app",
     title: "SS Balaramapuram Handlooms - Authentic Traditional Handloom Products",
     description:
       "Discover authentic handloom products from Balaramapuram, Kerala. Traditional craftsmanship meets modern convenience.",
