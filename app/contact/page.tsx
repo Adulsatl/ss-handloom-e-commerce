@@ -188,7 +188,7 @@ export default function ContactPage() {
                             value={formData.phone}
                             onChange={handleInputChange}
                             className="mt-1"
-                            placeholder="+91 9876543210"
+                            placeholder="+91 0000000000"
                           />
                         </div>
                         <div>
